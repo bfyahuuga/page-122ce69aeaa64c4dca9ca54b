@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e9beeea806daa219afe3fc8a",
+  "owner": "bfyahuuga",
+  "repo": "page-122ce69aeaa64c4dca9ca54b",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "122ce69aeaa64c4dca9ca54b",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9da186529fd57c2669bc46ac4293a99aa67fd11f00c1e0f77383409d4b6814df",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒提供专业VPN和机场加速服务，助力您获得高速稳定网络连接。选择适合您的套餐，下载魔戒客户端，畅享无忧上网体验。",
+          "AI_DESCRIPTION": "魔戒提供专业VPN和机场加速服务，助力您获得高速稳定网络连接。选择适合您的套餐，下载魔戒客户端，畅享无忧上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n<style>\n    body {\n        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n        margin: 0;\n        padding: 0;\n        background-color: #f8f4eb;\n        color: #222222;\n        line-height: 1.7;\n    }\n    .container {\n        max-width: 1100px;\n        margin: 0 auto;\n        padding: 0 20px;\n    }\n    header {\n        background: rgba(255,255,255,0.95);\n        position: sticky;\n        top: 0;\n        z-index: 10;\n        box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n    }\n    nav {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        padding: 1rem 0;\n    }\n    .logo {\n        font-size: 1.8rem;\n        color: #2d5a2d;\n        font-weight: bold;\n    }\n    .nav-links {\n        display: flex;\n        gap: 2rem;\n    }\n    .nav-links a {\n        color: #2d5a2d;\n        text-decoration: none;\n        font-weight: 500;\n    }\n    .hero {\n        background: #f8f4eb;\n        padding: 6rem 0;\n        text-align: center;\n    }\n    h1 {\n        font-size: 3.5rem;\n        color: #2d5a2d;\n        margin-bottom: 1rem;\n    }\n    .subtitle {\n        font-size: 1.5rem;\n        color: #444;\n        margin-bottom: 3rem;\n    }\n    .cta {\n        background: #2d5a2d;\n        color: white;\n        padding: 1rem 2rem;\n        border-radius: 50px;\n        text-decoration: none;\n        font-size: 1.1rem;\n        display: inline-block;\n    }\n    .section {\n        padding: 4rem 0;\n    }\n    .section h2 {\n        font-size: 2.2rem;\n        color: #2d5a2d;\n        text-align: center;\n        margin-bottom: 3rem;\n    }\n    .faq {\n        display: flex;\n        flex-direction: column;\n        gap: 1rem;\n    }\n    details {\n        background: white;\n        border-radius: 8px;\n        padding: 1rem;\n    }\n    summary {\n        font-weight: bold;\n        cursor: pointer;\n        font-size: 1.1rem;\n    }\n    @media (max-width: 768px) {\n        h1 { font-size: 2.4rem; }\n        .nav-links { flex-direction: column; background: white; padding: 1rem; gap: 1rem; }\n        .section { padding: 2.5rem 0; }\n        .subtitle { font-size: 1.3rem; }\n    }\n</style>\n\n\n<div class=\"container\">\n    <header>\n        <nav>\n            <div class=\"logo\">魔戒</div>\n            <div class=\"nav-links\">\n                <a href=\"#intro\">品牌简介</a>\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#operation\">操作说明</a>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#clients\">客户端选择</a>\n                <a href=\"#faq\">常见问题</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>魔戒 VPN</h1>\n            <p class=\"subtitle\">高速稳定 · 隐私保护 · 全球加速</p>\n            <a href=\"#plans\" class=\"cta\">立即选择套餐</a>\n        </section>\n        <section id=\"intro\" class=\"section\">\n            <h2>品牌简介</h2>\n            <p>魔戒是一款专注于网络加速的优质服务品牌，致力于为用户提供安全、快速且稳定的连接体验。无论是个人用户还是企业团队，都能通过魔戒找到合适的解决方案。</p>\n        </section>\n        <section id=\"scenarios\" class=\"section\">\n            <h2>使用场景</h2>\n            <p>魔戒适用于多种场景，包括家庭网络优化、远程办公、跨境旅行、娱乐内容访问以及日常上网加速。您可以根据自己的需求选择最适合的线路和套餐。</p>\n        </section>\n        <section id=\"operation\" class=\"section\">\n            <h2>操作说明</h2>\n            <ol>\n                <li>访问魔戒官方网站，下载适合您的客户端。</li>\n                <li>注册并登录账号，选择订阅套餐。</li>\n                <li>完成支付后，立即配置并连接节点。</li>\n                <li>享受高速稳定的网络加速服务。</li>\n            </ol>\n        </section>\n        <section id=\"plans\" class=\"section\">\n            <h2>选择您的套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\" class=\"section\">\n            <h2>客户端选择</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <section id=\"faq\" class=\"section\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>魔戒 VPN 是什么？</summary>\n                    <p>魔戒 VPN 是一款专业的网络加速服务，旨在帮助用户提升上网速度、保护隐私并解锁更多内容。</p>\n                </details>\n                <details>\n                    <summary>如何订阅魔戒？</summary>\n                    <p>您可以访问魔戒官网，注册账号后选择套餐进行订阅，支付完成后即可使用。</p>\n                </details>\n                <details>\n                    <summary>魔戒支持哪些设备？</summary>\n                    <p>魔戒支持多种主流设备，包括电脑、手机、平板等多种系统平台。</p>\n                </details>\n                <details>\n                    <summary>魔戒的加速原理是什么？</summary>\n                    <p>魔戒通过优化线路和节点选择，为用户提供更快的连接速度和更稳定的网络体验。</p>\n                </details>\n                <details>\n                    <summary>客服支持服务如何？</summary>\n                    <p>魔戒致力于提供优质的客户服务，确保每位用户都能获得满意的体验。</p>\n                </details>\n                <details>\n                    <summary>如何获取客户端下载？</summary>\n                    <p>登录魔戒官网账号后，即可下载对应的客户端程序。</p>\n                </details>\n            </div>\n        </section>\n    </main>\n</div>\n\n",
+          "hash": "49c1ef635fc90c296ccd4e9d84b4c00f24b7dffbab2adb057ad7f209ce033cfb",
+          "seo": {
+            "title": "魔戒 VPN - 高速稳定网络加速器",
+            "keywords": "魔戒,魔戒VPN,魔戒机场,网络加速器,VPN客户端下载",
+            "description": "魔戒提供专业VPN和机场加速服务，助力您获得高速稳定网络连接。选择适合您的套餐，下载魔戒客户端，畅享无忧上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5ptk8e4l.cn",
+    "host": "web.5ptk8e4l.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "5ptk8e4l.cn",
+      "url": "https://5ptk8e4l.cn/",
+      "label": "MIMEMI",
+      "apex": "5ptk8e4l.cn",
+      "kind": null,
+      "identity": "wan9900/page-492d611123292ad19ee2a479"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "26159e213d217966fb605eb14771da96825920dd6d7fa1230936729bf8df6e3b",
+    "sitemap.xml": "69240887974813c80cf2830f1ff7f364dcc510aff5066dde0f44e1d42609ce6c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4046d8f5a2a8ed022a73de5344ace7de43ae748aa3eed760b86a277af92d362e",
+    "robots.txt": "d8c2cd1868a5022345549785d678ce54c9532ac3e06d63fef86a3af807cbb384",
+    "b3e94d58ec87c876464073cac6fd6d68.txt": "5accb18c363c44d667361fcc4e714acfc8f5ae8984d4b6465b7389fe0f4ac68e"
+  },
+  "revision": "92fe6f51e77d5789e8c61d45325002dd6702ffa6665a587f356e3e2102e880ec"
+}
